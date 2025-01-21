@@ -5,31 +5,9 @@
   "appliesTo": "system.displayname == \"LogicMonitor SI Property Normalizer\"",
   "type": 5,
   "technicalNotes": "",
-  "version": 1737487677,
-  "registryMetadata": {
-    "currentUuid": "3-1-Z3XdQt6qNk1TiiVABg",
-    "originalUuid": "REmuKZwVR4CGDO69100ZYQ",
-    "locatorId": "",
-    "authorCompanyUuid": "4b6304c2-bfdc-4886-af9d-d9063bd8a0c4",
-    "registryVersion": "1.0.0",
-    "checksum": "13bee8570f0094768027d4e5afedfb4a",
-    "namespace": "",
-    "registryId": ""
-  },
   "script": {
     "type": "groovy",
     "content": "import com.santaba.agent.groovyapi.expect.Expect;\nimport com.santaba.agent.groovyapi.snmp.Snmp;\nimport com.santaba.agent.groovyapi.http.*;\nimport com.santaba.agent.groovyapi.jmx.*;\nimport org.xbill.DNS.*;\n\nprintln 'auto.location.region=EMEA'\nprintln 'auto.location.country=United Kingdom'\nprintln 'auto.location.state=London'\nprintln 'auto.location.city=London'\nprintln 'auto.location.site=Chadwick Court'\nprintln 'auto.location.type=Office'"
   },
-  "group": "",
-  "headers": {
-    "cache-control": "no-cache, no-store",
-    "content-disposition": "attachment; filename=\"NormalisedProps.json\"",
-    "content-length": "969",
-    "content-type": "application/json",
-    "date": "Tue, 21 Jan 2025 19:28:05 GMT",
-    "server": "LM",
-    "strict-transport-security": "max-age=31536000; includeSubDomains",
-    "x-content-type-options": "nosniff",
-    "x-server-version": "216-5"
-  }
+  "group": ""
 }

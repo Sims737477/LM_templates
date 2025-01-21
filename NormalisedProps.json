@@ -2,17 +2,17 @@
   "searchKeywords": "",
   "name": "NormalisedProps",
   "description": "",
-  "appliesTo": "system.displayname == \"DummyService\"",
+  "appliesTo": "system.displayname == \"LogicMonitor SI Property Normalizer\"",
   "type": 5,
   "technicalNotes": "",
-  "version": 1736365908,
+  "version": 1737487677,
   "registryMetadata": {
-    "currentUuid": "REmuKZwVR4CGDO69100ZYQ",
+    "currentUuid": "3-1-Z3XdQt6qNk1TiiVABg",
     "originalUuid": "REmuKZwVR4CGDO69100ZYQ",
     "locatorId": "",
-    "authorCompanyUuid": "c07472c8-700b-4fe9-98a9-d77d487c3426",
+    "authorCompanyUuid": "4b6304c2-bfdc-4886-af9d-d9063bd8a0c4",
     "registryVersion": "1.0.0",
-    "checksum": "bf2139e4329681e7c44e373f3166945d",
+    "checksum": "13bee8570f0094768027d4e5afedfb4a",
     "namespace": "",
     "registryId": ""
   },
@@ -24,12 +24,12 @@
   "headers": {
     "cache-control": "no-cache, no-store",
     "content-disposition": "attachment; filename=\"NormalisedProps.json\"",
-    "content-length": "946",
+    "content-length": "969",
     "content-type": "application/json",
-    "date": "Tue, 14 Jan 2025 12:36:42 GMT",
+    "date": "Tue, 21 Jan 2025 19:28:05 GMT",
     "server": "LM",
     "strict-transport-security": "max-age=31536000; includeSubDomains",
     "x-content-type-options": "nosniff",
-    "x-server-version": "215-2"
+    "x-server-version": "216-5"
   }
 }
